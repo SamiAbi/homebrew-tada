@@ -7,7 +7,7 @@ cask "tada" do
   desc "Terminal-first agent cockpit for macOS"
   homepage "https://github.com/SamiAbi/tada"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
   depends_on arch: :arm64
 
   app "Tada.app"
