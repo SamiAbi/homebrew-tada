@@ -1,6 +1,6 @@
 cask "tada" do
-  version "0.4.0"
-  sha256 "a5966e2d23491c0a5a19534bebb7ae8dba15aa14e5744d61cb2b27af4857455c"
+  version "0.4.1"
+  sha256 "d77280e99b09f09c690ab968386a3c40c06d78809943ddbf2a30fa028daa5ee2"
 
   url "https://github.com/SamiAbi/tada/releases/download/v#{version}/Tada.dmg"
   name "Tada"
